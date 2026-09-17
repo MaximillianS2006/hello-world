@@ -1,2 +1,2 @@
-# This repository holds a hello-world.c file
-# And prints out hello world when called
+# This is a README file
+# helloworld.c is a program that prints Hello world!
