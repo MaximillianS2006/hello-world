@@ -5,7 +5,7 @@
 int main()
 {
   // Print out "Hello World"
-  printf("Hello world\n");
+  printf("hello world\n"); 
   // Return successful
   return 0;
 }
